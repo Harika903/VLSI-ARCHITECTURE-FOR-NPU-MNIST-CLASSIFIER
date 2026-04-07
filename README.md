@@ -15,17 +15,17 @@ This project implements a Neural Processing Unit (NPU) using Verilog for MNIST d
 - Verilog HDL
 - Cadence (Simulation & Synthesis)
 
-# #Features
+# Features
 - Modular design approach
 - Simulation and verification using testbenches
 - Performance analysis (Area, Power, Timing)
 
-## Project Structure
+# Project Structure
 - `source/` → Design files  
 - `testbench/` → Testbench files  
 - `Netlisst/` → Synthesized netlists  
 - `reports/` → Area, power, timing reports  
 - `constraints/` → SDC/XDC constraint files  
 
-## Outcome
+# Outcome
 Designed and validated an NPU architecture suitable for basic neural network inference tasks.
